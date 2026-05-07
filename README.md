@@ -1,4 +1,4 @@
-**Conflict Avoidance and Landslide Update of Vehicle in Deep Curves**
+🌧️🚘**Conflict Avoidance and Landslide Update of Vehicle in Deep Curves**
 
 📖 Overview The IoT-Based Conflict Avoidance and Landslide Detection System is an intelligent road safety solution designed for deep curves, blind bends, and landslide-prone hilly areas. This system combines IoT, Embedded Systems, and sensor-based automation to provide real-time vehicle monitoring, landslide detection, and automated traffic control. It helps reduce head-on collisions, improves driver safety, and provides early hazard warnings with minimal human intervention.
 
