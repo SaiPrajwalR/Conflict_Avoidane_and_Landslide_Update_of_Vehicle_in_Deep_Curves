@@ -67,12 +67,13 @@
   • Improved road safety and traffic management
 
 👨‍💻 Team Members
-  • Sai Prajwal R
-  • Yeshwanth K
-  • Vikas R Hirematha
-  • Bhojaraja D S
+  • Sai Prajwal R (ENG22CS0430)
+  • Yeshwanth K (ENG22CS0514)
+  • Vikas R Hirematha (ENG22CS0500)
+  • Bhojaraja D S (ENG22CS0266)
 
 🎓 Project Guide
+
   Dr. J. Sebastian Nixon
   Professor, Department of Computer Science & Engineering
 
