@@ -67,10 +67,10 @@
   • Improved road safety and traffic management
 
 👨‍💻 Team Members
-  • Your Name
-  • Team Member 2
-  • Team Member 3
-  • Team Member 4
+  • Sai Prajwal R
+  • Yeshwanth K
+  • Vikas R Hirematha
+  • Bhojaraja D S
 
 🎓 Project Guide
   Dr. J. Sebastian Nixon
